@@ -1,8 +1,16 @@
 {
   "name": "@safi-siddiqui/ui-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "react ui",
+  "homepage": "https://github.com/safi-siddiqui-github/ui-react#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safi-siddiqui-github/ui-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/safi-siddiqui-github/ui-react/issues"
+  },
   "keywords": [
     "react"
   ],
